@@ -9,7 +9,7 @@ a. If marks less than 45 then print Fail
 b. else print Pass
 PROGRAM:
 #INCLUDE<STDIO.H>
-main()
+int main()
 {
     int s1,s2,s3;
     printf("Enter marks of sub1,sub2,sub3");
